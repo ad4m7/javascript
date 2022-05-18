@@ -1,1 +1,1 @@
-# javascript
+My first project using Java Script
